@@ -150,6 +150,7 @@ body {
     background-color: var(--button-background-color);
     border: 1px solid #9c3932;
     border-radius: 1vh;
+    cursor: pointer;
 }
 
 @media (max-width: 760px) {
